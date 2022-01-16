@@ -1,7 +1,9 @@
 # react-ecommerce-template How to install locally
 
-prerequisite
+prerequisites
+
     nodejs version ---->  v12.16.1
+    
     npm version  ---->  6.14.5
 
 step1:  git clone https://github.com/prajwal88/react-ecommerce-template.git
